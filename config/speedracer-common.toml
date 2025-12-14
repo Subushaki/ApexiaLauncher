@@ -1,0 +1,6 @@
+
+#General configuration settings for the Speed Racer mod
+[general]
+	#Plays the OG jumping sound instead of the one from Speed Racer: The Video Game
+	playOGSound = false
+

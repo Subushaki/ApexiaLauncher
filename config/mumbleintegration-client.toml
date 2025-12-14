@@ -1,0 +1,14 @@
+#Should the Mumble integration be active?
+mumble_active = false
+#Should Mumble be connect automated?
+auto_connect = false
+#Address of the Mumble server.
+address = ""
+#Port of the Mumble server.
+#Range: 0 ~ 65535
+port = 64738
+#Path of the Mumble channel.
+path = ""
+#Use subchannels for each dimension?
+use_dimension_channels = false
+
